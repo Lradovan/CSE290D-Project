@@ -248,7 +248,7 @@ image_name,fg_index_small,fg_index_medium,fg_index_large
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15249.JPEG,425,433,409
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15300.JPEG,425,433,425
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15544.JPEG,425,433,342
-/srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15689.JPEG,425,433
+/srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15689.JPEG,425,433,342
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15771.JPEG,428,191,184
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15962.JPEG,425,354,426
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_15976.JPEG,425,449,184
@@ -257,7 +257,7 @@ image_name,fg_index_small,fg_index_medium,fg_index_large
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_1649.JPEG,425,354,425
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_16978.JPEG,425,433,206
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_1748.JPEG,425,433,425
-/srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_17560.JPEG,425,433
+/srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_17560.JPEG,425,433,342
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_17776.JPEG,425,354,342
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_17866.JPEG,425,354,207
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_17956.JPEG,425,354,344
@@ -280,7 +280,7 @@ image_name,fg_index_small,fg_index_medium,fg_index_large
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_20833.JPEG,425,433,425
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_21147.JPEG,425,460,207
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_2168.JPEG,425,354,499
-/srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_21811.JPEG,425,433
+/srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_21811.JPEG,425,433,342
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_21859.JPEG,425,433,207
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_21929.JPEG,425,433,207
 /srv/PASCAL3D+_release1.1/Images/car_imagenet/n02814533_21965.JPEG,425,433,184
